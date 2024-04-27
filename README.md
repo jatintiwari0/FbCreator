@@ -17,7 +17,10 @@ pip install faker
 pip install hashlib
 
 ```
-
+TO RUN FILES JUST TYPE
+```
+python FbCreator.py
+```
 👉For pc use  Command Prompt <br>
 👉For android use  Pydroid 3
   
