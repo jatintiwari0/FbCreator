@@ -10,11 +10,11 @@ Rᴇᴏ̨ᴜɪʀᴇᴍᴇɴᴛs :-
 ```
 pip install requests
 
-pip install random
+pip install random (NOT REQUIRED, CHECK IF YOU NEED IT AFTER RUN THE .PY FILE)
 
 pip install faker
 
-pip install hashlib
+pip install hashlib (NOT REQUIRED, CHECK IF YOU NEED IT AFTER RUN THE .PY FILE)
 
 ```
 TO RUN FILES JUST TYPE
