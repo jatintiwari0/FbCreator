@@ -1,0 +1,5 @@
+Remove everything, paste in your proxy list.
+Proxies should look like:
+104.207.32.238:3128
+ONLY HTTP PROXIES!
+No prefix, it will break. More support soon lol.
