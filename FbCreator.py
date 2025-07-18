@@ -9,7 +9,7 @@ from faker import Faker
 
 print(f"""
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓           
-> › Github :- @jatintiwari0 
+> › Github :- marinakhan
 > › By      :- JATIN TIWARI
 > › Proxy Support Added by @coopers-lab
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛                """)
